@@ -1,1 +1,2 @@
-# malltiplayer-game
+# synchronousBallMovement
+Ball moving synchronously
